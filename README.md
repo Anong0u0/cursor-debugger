@@ -1,10 +1,10 @@
-# Cursor Debugger
+# CSS Cursor Explorer
 
 English | [中文](README.zh.md)
 
 A small, elegant gallery for previewing and copying cursor styles.
 
-[🔗 Live Demo](https://anong0u0.github.io/cursor-debugger/)
+[🔗 Live Demo](https://anong0u0.github.io/css-cursor-explorer/)
 
 ## What it does
 
